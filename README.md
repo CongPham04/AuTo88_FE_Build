@@ -1,7 +1,7 @@
 
-  # Car Sales Website (Community)
+  # Auto 88 FE
 
-  This is a code bundle for Car Sales Website (Community). The original project is available at https://www.figma.com/design/NhpTlE5lqIs4dANRaXgTvI/Car-Sales-Website--Community-.
+  This is a code bundle for the Car Sales Website for Auto88
 
   ## Running the code
 
